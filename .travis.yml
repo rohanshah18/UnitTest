@@ -5,3 +5,5 @@ notifications:
   email:
     - rohanshah.psu@gmail.com
 xcode_project: UnitTest.xcodeproj # path to your xcodeproj folder
+xcode_scheme: UnitTestTests
+xcode_destination: platform=iOS Simulator,OS=10.1,name=iPhone XR
