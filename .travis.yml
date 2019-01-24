@@ -1,0 +1,7 @@
+os: osx
+language: Swift
+osx_image: xcode10.1
+notifications:
+  email:
+    - rohanshah.psu@gmail.com
+xcode_project: UnitTest.xcodeproj # path to your xcodeproj folder
